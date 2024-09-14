@@ -1,5 +1,5 @@
 # Business-Process-Modeling
-BPM Project at @UniPi a.y. 2022/23
+BPM Project at @UniPi a.y. 2023/24
 
 This repository contains the files and report for the development of a business process modeling project.
 
